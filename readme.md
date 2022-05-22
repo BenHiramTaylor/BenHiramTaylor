@@ -33,6 +33,6 @@ I am a Data Engineer at Profusion
 
 </br>
 <p align="center">
-<img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenHiramTaylor&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="BenHiramTaylor's GitHub stats">
-<img align="top" src="https://github-readme-stats.vercel.app/api?username=BenHiramTaylor&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="BenHiramTaylor's top languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenHiramTaylor&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="BenHiramTaylor's GitHub stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenHiramTaylor&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="BenHiramTaylor's top languages">
 </p>
