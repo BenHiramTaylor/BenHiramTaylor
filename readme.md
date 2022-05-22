@@ -1,7 +1,8 @@
-Hi, my name is Ben!👋
-=====================
+<h1 align="center">Hi, my name is Ben!👋</h1>
 
-I am a Data Engineer at Profusion
+<h2 align="center">
+I am currently a Data Engineer at <a href="https://profusion.com/">Profusion</a>
+</h2>
 
 <p align="center">
     <img href="https://www.twitter.com/corrrblimey" src="https://img.shields.io/twitter/follow/corrrblimey?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917">
