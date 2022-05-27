@@ -34,6 +34,6 @@ I am currently a Data Engineer at <a href="https://profusion.com/">Profusion</a>
 
 </br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenHiramTaylor&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="BenHiramTaylor's GitHub stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenHiramTaylor&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=true" alt="BenHiramTaylor's top languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BenHiramTaylor&show_icons=true&locale=en&layout=compact&theme=gotham&card_width=300" alt="BenHiramTaylor's top languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=BenHiramTaylor&show_icons=true&locale=en&theme=gotham&hide=stars&hide_rank=false" alt="BenHiramTaylor's GitHub stats">
 </p>
