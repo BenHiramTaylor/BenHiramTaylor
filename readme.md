@@ -1,11 +1,10 @@
 <h1 align="center">Hi, my name is Ben!👋</h1>
 
 <h2 align="center">
-I am currently a Data Engineer at <a href="https://profusion.com/">Profusion</a>
+I am currently a Senior Data Engineer at <a href="https://profusion.com/">Profusion</a>
 </h2>
 
 <p align="center">
-    <img href="https://www.twitter.com/corrrblimey" src="https://img.shields.io/twitter/follow/corrrblimey?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917">
     <img href="https://www.github.com/BenHiramTaylor" src="https://img.shields.io/github/followers/BenHiramTaylor?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917">
 </p>
 
