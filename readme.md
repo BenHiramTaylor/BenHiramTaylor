@@ -27,7 +27,6 @@ I am currently a Senior Data Engineer at <a href="https://profusion.com/">Profus
 <p align="center">     
     <img href="https://www.github.com/BenHiramTaylor" src="./Socials/github.svg" width="36" height="36">
     <img href="http://www.instagram.com/ben_hiram" src="./Socials/instagram.svg" width="36" height="36">
-    <img href="https://www.twitter.com/corrrblimey" src="./Socials/twitter.svg" width="36" height="36">
     <img href="https://www.linkedin.com/in/benhiramtaylor/" src="./Socials/linkedin.svg" width="36" height="36">
 </p>
 
