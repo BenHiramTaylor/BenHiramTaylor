@@ -1,7 +1,7 @@
 <h1 align="center">Hi, my name is Ben!👋</h1>
 
 <h2 align="center">
-I am currently a Senior Data Engineer at <a href="https://profusion.com/">Profusion</a>
+I am currently a Senior Data Engineer at <a href="https://www.preqin.com/">Preqin</a>
 </h2>
 
 <p align="center">
